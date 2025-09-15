@@ -39,7 +39,7 @@ class Pattern
     }
 }
 
-class program96
+class program096
 {
     public static void main(String A[])
     {
