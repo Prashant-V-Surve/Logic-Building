@@ -51,7 +51,7 @@ class Pattern
     }
 }
 
-class program95
+class program095
 {
     public static void main(String A[])
     {
