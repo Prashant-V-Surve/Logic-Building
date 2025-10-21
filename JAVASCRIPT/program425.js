@@ -1,0 +1,17 @@
+//////////////////////////////////////////////////////////////////////////////
+//     
+//  File name :     program425.js
+//  Descreption :   Summation of Two numbers.
+//  Author :        Prashant V. Surve
+//  Date :          17/09/2025
+//
+//////////////////////////////////////////////////////////////////////////////
+
+function Addition(No1, No2)
+{
+    return No1 + No2
+}
+
+Ret = Addition(10,11)
+
+console.log(Ret)

@@ -1,0 +1,17 @@
+//////////////////////////////////////////////////////////////////////////////
+//     
+//  File name :     program410.js
+//  Descreption :   Summation of two numbers.
+//  Author :        Prashant V. Surve
+//  Date :          17/09/2025
+//
+//////////////////////////////////////////////////////////////////////////////
+
+let no1 = 10
+let no2 = 11
+
+let ans = 0
+
+ans = no1 + no2
+
+console.log("Addition is : "+ans)

@@ -1,0 +1,15 @@
+//////////////////////////////////////////////////////////////////////////////
+//     
+//  File name :     program415.js
+//  Descreption :   Print data multiple times.(for Loop)
+//  Author :        Prashant V. Surve
+//  Date :          17/09/2025
+//
+//////////////////////////////////////////////////////////////////////////////
+
+let data = "Jay Ganesh..."
+
+for(let i = 1; i <= 5; i++)
+{
+    console.log(data)
+}
