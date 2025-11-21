@@ -1,0 +1,18 @@
+#############################################################################
+##     
+##  File name :     program638.py
+##  Descreption :   Display elments in List.
+##  Author :        Prashant V. Surve
+##  Date :          3/08/2025
+##
+#############################################################################
+
+def main():
+    Arr = [10,20,30,40,50]
+    
+    no = 0
+    for no in Arr:    
+        print(no)
+
+if __name__ == "__main__":
+    main()
