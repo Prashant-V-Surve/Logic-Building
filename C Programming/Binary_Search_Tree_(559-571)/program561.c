@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////
 //     
 //  File name :     program561.c
-//  Descreption :   Binary Search Tree.
+//  Descreption :   LinkedList (Recursive Approach).
 //  Author :        Prashant V. Surve
 //  Date :          5/08/2025
 //
