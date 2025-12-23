@@ -70,7 +70,7 @@ class MergeTwoList_LC5
     {
         Node lRet = null;
 
-        // Create first list: 1 → 3 → 5
+        // Create first list: 1 → 2 → 5
         Node list1 = new Node(1);
         list1.next = new Node(2);
         list1.next.next = new Node(5);
